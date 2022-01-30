@@ -1,9 +1,9 @@
 {
+  "homepage": "https://mchughrt.github.io/react_video-search",
   "name": "videos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "https://mchughrt.github.io/react_video-search",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
